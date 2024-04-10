@@ -3,7 +3,7 @@
 
 
 ## Description
-This project simulates the Boids algorithm, demonstrating the complex flocking behavior of birds. By implementing rules of separation, alignment, and cohesion, it visualizes how individual agents can create emergent patterns through simple interactions.
+This project simulates the Boids algorithm, and tweaks it for demonstrating the complex yet mesmerizing movement patterns of a School of Fish. By implementing rules of separation, alignment, and cohesion, it visualizes how individual agents can create emergent patterns through simple interactions.
 
 ![Boids Simulation](Boids_Algorithm.jpeg)
 
