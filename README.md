@@ -5,7 +5,7 @@
 ## Description
 This project simulates the Boids algorithm, demonstrating the complex flocking behavior of birds. By implementing rules of separation, alignment, and cohesion, it visualizes how individual agents can create emergent patterns through simple interactions.
 
-![Boids Simulation](boids_sample.png)
+![Boids Simulation](Boids_Algorithm.jpeg)
 
 ## Installation
 To set up the "Boids Algorithm Simulation" project, clone the repository and install the necessary Python packages:
